@@ -17,3 +17,7 @@ Casing | Tecware Nexus Air M2
 - HDMI Audio Output.
 - App Store will cause randomly log out system.
 - Sleep sometime will not able to wake.
+
+# Opencore 0.6.8 + macOS Catalina Version 10.15.7
+* Opencore 0.6.8: [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+* macOS Catalina Version 10.15.7
