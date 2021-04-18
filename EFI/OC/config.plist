@@ -1226,26 +1226,26 @@
 		<false/>
 		<key>Generic</key>
 		<dict>
-			<key>AdviseWindows</key>
-			<false/>
-			<key>MaxBIOSVersion</key>
-			<false/>
-			<key>MLB</key>
-			<string>C020136094NPHCDJA</string>
-			<key>ProcessorType</key>
-			<integer>0</integer>
-			<key>ROM</key>
-			<data>ESIzAAAA</data>
-			<key>SpoofVendor</key>
-			<true/>
-			<key>SystemMemoryStatus</key>
-			<string>Auto</string>
-			<key>SystemProductName</key>
-			<string>iMac20,1</string>
-			<key>SystemSerialNumber</key>
-			<string>C02CH9YSPN5T</string>
-			<key>SystemUUID</key>
-			<string>BAC029D6-5650-45B2-88CC-358CDF6FCEF0</string>
+		    <key>AdviseWindows</key>
+		    <false/>
+		    <key>MaxBIOSVersion</key>
+		    <false/>
+		    <key>MLB</key>
+		    <string>xxxxxxxxxxxxxxx</string>
+		    <key>ProcessorType</key>
+		    <integer>0</integer>
+		    <key>ROM</key>
+		    <data>ESIzRFVm</data>
+		    <key>SpoofVendor</key>
+		    <true/>
+		    <key>SystemMemoryStatus</key>
+		    <string>Auto</string>
+		    <key>SystemProductName</key>
+		    <string>iMac20,1</string>
+		    <key>SystemSerialNumber</key>
+		    <string>xxxxxxxxxxx</string>
+		    <key>SystemUUID</key>
+		    <string>xxxxxxxx-xxxxx-xxxxx-xxxx-xxxxxxxx</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
