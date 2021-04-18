@@ -21,3 +21,30 @@ Casing | Tecware Nexus Air M2
 # Opencore 0.6.8 + macOS Catalina Version 10.15.7
 * Opencore 0.6.8: [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * macOS Catalina Version 10.15.7
+
+# Replace the PlatformInfo
+replace this part to your build.
+```
+<dict>
+    <key>AdviseWindows</key>
+    <false/>
+    <key>MaxBIOSVersion</key>
+    <false/>
+    <key>MLB</key>
+    <string>xxxxxxxxxxxxxxx</string>
+    <key>ProcessorType</key>
+    <integer>0</integer>
+    <key>ROM</key>
+    <data>ESIzRFVm</data>
+    <key>SpoofVendor</key>
+    <true/>
+    <key>SystemMemoryStatus</key>
+    <string>Auto</string>
+    <key>SystemProductName</key>
+    <string>iMac20,1</string>
+    <key>SystemSerialNumber</key>
+    <string>xxxxxxxxxxx</string>
+    <key>SystemUUID</key>
+    <string>xxxxxxxx-xxxxx-xxxxx-xxxx-xxxxxxxx</string>
+</dict>
+```
