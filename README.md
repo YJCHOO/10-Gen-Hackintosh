@@ -4,7 +4,7 @@ The objective is to build a video editing and coding Hackintosh. Build must be a
 # Hardware
 Part | Model
 -----|------
-CPU  | Intel Core I5 10500ES
+CPU  | Intel Core I5 10500 ES
 CPU Fan | Cooler Master i30
 GPU | Intel UHD 630
 Motherboard | Asrock B460M Pro4
