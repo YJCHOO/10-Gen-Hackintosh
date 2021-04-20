@@ -241,8 +241,10 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
+				<key>hda-gfx</key>
+				<string>onboard-1</string>
 				<key>layout-id</key>
 				<integer>1</integer>
 			</dict>
@@ -271,7 +273,9 @@
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 				<key>enable-hdmi20</key>
-				<data>AQAAAA==</data>		
+				<data>AQAAAA==</data>
+				<key>hda-gfx</key>
+				<string>onboard-1</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
