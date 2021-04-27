@@ -14,7 +14,7 @@ Network | Fenvi FV-T919
 Casing | Tecware Nexus Air M2
 
 # Not Working
-- HDMI Audio Output.
+~~- HDMI Audio Output.~~
 - App Store cause randomly log out system.
 - Sleep sometime will not able to wake.
 
