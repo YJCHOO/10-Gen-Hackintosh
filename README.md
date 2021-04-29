@@ -1,4 +1,4 @@
-# 10th-Gen-Intel-Core-i5-Hackintosh
+# Asrock-B460M-Pro4-Hackintosh
 The objective is to build a video editing and coding Hackintosh. Build must be able to use Airdrop, Continuity, Handoff and Airpods Pro seamlessly.
 
 # Hardware
