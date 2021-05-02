@@ -14,13 +14,13 @@ Network | Fenvi FV-T919
 Casing | Tecware Nexus Air M2
 
 # Not Working
-~~- HDMI Audio Output.~~
-- App Store cause randomly log out system.
-- Sleep sometime will not able to wake.
+~~- HDMI Audio Output.~~ (fixed by patching the BusID)
+~~- App Store cause randomly log out system.~~ (Fixed after updated to Big Sur)
+~~- Sleep sometime will not able to wake.~~ (Fixed after updated to Big Sur)
 
-# Opencore 0.6.8 + macOS Catalina Version 10.15.7
+# Opencore 0.6.8 + macOS Big Sur Version 11.3
 * Opencore 0.6.8: [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
-* macOS Catalina Version 10.15.7
+* macOS Big Sur Version 11.3
 
 # Replace the PlatformInfo
 replace this part to your build.
