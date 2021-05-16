@@ -4,6 +4,7 @@ The objective is to build a video editing and coding Hackintosh. Build must be a
 # Hardware
 Part | Model
 -----|------
+Monitor | LG 29WK600-W
 CPU  | Intel Core I5 10500 ES
 CPU Fan | Cooler Master i30
 GPU | Intel UHD 630
