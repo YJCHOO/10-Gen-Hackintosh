@@ -15,12 +15,14 @@ Network | Fenvi FV-T919
 Casing | Tecware Nexus Air M2
 
 # Not Working
+- Apple Music Dolby Atmos and loseless not working.(Need SMBIOS iMac Pro 1,1, but it will disable IGPU hardware acceleration)
+- Ps/2 port not working
+
+# Fixed
 - ~~HDMI Audio Output.~~ (fixed by patching the BusID)
 - ~~App Store cause randomly log out system.~~ (Fixed after updated to Big Sur)
 - ~~Sleep sometime will not able to wake.~~ (Fixed after updated to Big Sur)
 - ~~screen glitch on log in screen.~~ (Fixed by turn off hdmi compatible setting on monitor)
-- Apple Music Dolby Atmos and loseless not working.
-- Ps/2 port not working
 
 # Opencore 0.6.8 + macOS Big Sur Version 11.5.1
 * Opencore 0.6.8: [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
